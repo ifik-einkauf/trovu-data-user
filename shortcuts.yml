@@ -1,11 +1,36 @@
-# Documentation:
-# https://trovu.net/docs/shortcuts/
-
-examplekeyword 0: http://www.example.com/
-examplekeyword 1: http://www.example.com/?q=<query>
-examplekeyword 2:
-  url: http://www.example.com/?q=<query>&p=<puery>
-  title: Custom shortcut
-  description: My custom shortcut with the keyword examplekeyword and 2 arguments.
-  tags:
-  - example
+vwr 1:
+  url: https://ch.vwr.com/store/product?keyword=<query>
+  title: VWR Webshop
+shortcuts 0:
+  url: https://www.findfind.it/shortcuts?namespace=einkauf_ifik
+  title: findfind Shortcuts
+faust 1:
+  url: https://www.faust.ch/shop/qsrch.htm?Keyval=<query>&UID=55006243ffc5000000000000
+  title: Faust Laborbedarf
+roth 1:
+  url: https://www.carlroth.com/ch/de/search/?component-select=all&text=<query>&componentuid=SearchBox
+  title: Carl Roth
+merck 1:
+  url: https://www.merckmillipore.com/CH/de/search/gugus?search=&TrackingSearchType=SB+-+homepage-search-box+-+OLD&SearchContextPageletUUID=&SearchTerm=<query>
+  title: Merck Millipore
+sigma 1:
+  url: https://www.sigmaaldrich.com/CH/de/search/aceton?focus=products&page=1&perpage=30&sort=relevance&term=<query>&type=product
+  title: Sigma Aldrich
+eppendorf 1:
+  url: https://www.eppendorf.com/CH-de/system/search/?query=<query>
+  title: Vaudaux Eppendorf
+huber 1:
+  url: https://huberlab.ch/huberlab/de/CHF/search/?text=<query>
+  title: HuberLab
+duden 1:
+  url: https://www.duden.de/suchen/dudenonline/<query>
+  title: Duden
+agilent 1:
+  url: https://www.agilent.com/search/?Ntt=<query>&redirect=0
+  title: Agilent
+sarstedt 1:
+  url: https://www.sarstedt.com/suche/?id=77&L=0&q=<query>&x=0&y=0
+  title: Sarstedt
+preis 1:
+  url: https://www.toppreise.ch/produktsuche?q=<s>&cid=
+  title: toppreise_ch
