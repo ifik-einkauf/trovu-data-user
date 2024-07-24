@@ -35,6 +35,6 @@ preis 1:
   url: https://www.toppreise.ch/produktsuche?q=<s>&cid=
   title: toppreise_ch
 fishersci 1:
-  url: https://www.fishersci.ch/shop/products/gilson-pipetman-tipack-filter-tips-8/11912078?searchHijack=true&searchTerm=<query>
+  url: https://www.fishersci.ch/ch/de/catalog/search/products?keyword=<query>
   title: Fisher Scientific Schweiz
   
